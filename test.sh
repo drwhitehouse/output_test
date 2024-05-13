@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Testing" > output/test.out
+cp input/* output/
